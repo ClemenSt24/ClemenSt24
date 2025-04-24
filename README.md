@@ -3,17 +3,16 @@
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on open-source web development projects.
 - 📫 How to reach me:
-- Email:clemenciasterling37@gmail.com
 - LinkedIn: www.linkedin.com/in/clemencia-s-44417a2b9
 - 😄 Pronouns: she/her.
-- 🎓I'm currently a third-year student pursuing a Bachelor of Science (BSc) degree.
+- 🎓 I have finished my studies and am now actively pursuing opportunities in biomedical engineering, healthcare technology, and IT-related fields. 
 - 💻 Technologies I work with:
-- ASP
-  - SQL
-  - JavaScript
-  - HTML & CSS
-  - React
-  - Git & GitHub
+    - ASP
+    - SQL
+    - JavaScript
+    - HTML & CSS
+    - React
+    - Git & GitHub
 
 <!---
 ClemenSt24/ClemenSt24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
