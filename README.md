@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - LinkedIn: www.linkedin.com/in/clemencia-s-44417a2b9
 - 😄 Pronouns: she/her.
-- 🎓 I have finished my studies and am now actively pursuing opportunities in biomedical engineering, healthcare technology, and IT-related fields. 
+- 🎓 Recently graduated in Computing and IT with a focus on software development, networking, and software engineering. I am now actively pursuing opportunities in biomedical engineering, healthcare technology, and IT-related fields.
 - 💻 Technologies I work with:
     - ASP
     - SQL
