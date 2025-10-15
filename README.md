@@ -1,20 +1,23 @@
-- 👋 Hi, I’m @ClemenSt24
-- 👀 I’m interested in web development, AI, and open-source projects.
-- 🌱 I’m currently learning JavaScript and React.
-- 💞️ I’m looking to collaborate on open-source web development projects.
-- 📫 How to reach me:
-- LinkedIn: www.linkedin.com/in/clemencia-s-44417a2b9
-- 😄 Pronouns: she/her.
-- 🎓 Recently graduated in Computing and IT with a focus on software development, networking, and software engineering. I am now actively pursuing opportunities in biomedical engineering, healthcare technology, and IT-related fields.
-- 💻 Technologies I work with:
-    - ASP
-    - SQL
-    - JavaScript
-    - HTML & CSS
-    - React
-    - Git & GitHub
+👋 Hi, I’m @ClemenSt24  
 
-<!---
-ClemenSt24/ClemenSt24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I’m a Computing & IT graduate with hands-on experience in biomedical engineering (NHS) and a growing focus on cloud technologies.  
+
+☁️ Currently, I’m enrolled in the **AWS re/Start programme**, expanding my knowledge in cloud computing, networking, and security.  
+
+💻 I’m passionate about using technology to improve healthcare systems and operational efficiency.  
+
+🤝 I’m open to collaborating on projects related to **cloud computing**, **web development**, and **IT infrastructure**.  
+
+📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/clemencia-s-44417a2b9)  
+
+🧰 Technologies I’ve worked with:  
+- AWS (EC2, VPC, IAM, S3, KMS)  
+- SQL  
+- HTML, CSS, JavaScript  
+- ASP  
+- React  
+- Git & GitHub  
+
+✨ *Always learning, always building.*
+
