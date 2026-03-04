@@ -12,12 +12,6 @@
 
 ---
 
-📫 **How to reach me**
-
-[LinkedIn](https://www.linkedin.com/in/clemencia-s-44417a2b9)
-
----
-
 🧰 **Technologies I’ve worked with**
 
 - AWS (EC2, VPC, IAM, S3, KMS)
