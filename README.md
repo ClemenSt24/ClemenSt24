@@ -2,6 +2,7 @@
 
 Computing & IT graduate | AWS re/Start | Cloud & IT Infrastructure | Biomedical Engineering experience (NHS)
 
+---
 🎓 I’m a Computing & IT graduate with hands-on experience in biomedical engineering within the NHS and a growing focus on cloud technologies. 
 
 ☁️ I recently completed the **AWS re/Start programme**, where I developed foundational skills in cloud computing, networking, security, and Linux. I’m currently preparing for the **AWS Certified Cloud Practitioner** certification.  
