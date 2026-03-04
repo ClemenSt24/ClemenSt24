@@ -1,8 +1,9 @@
-👋 Hi, I’m @ClemenSt24  
+👋 Hi, I’m Clemencia
+Computing & IT graduate | AWS re/Start | Cloud & IT Infrastructure | Biomedical Engineering experience (NHS)
 
-🎓 I’m a Computing & IT graduate with hands-on experience in biomedical engineering (NHS) and a growing focus on cloud technologies.  
+🎓 I’m a Computing & IT graduate with hands-on experience in biomedical engineering within the NHS and a growing focus on cloud technologies. 
 
-☁️ Currently, I’m enrolled in the **AWS re/Start programme**, expanding my knowledge in cloud computing, networking, and security.  
+☁️ I recently completed the **AWS re/Start programme**, where I developed foundational skills in cloud computing, networking, security, and Linux. I’m currently preparing for the **AWS Certified Cloud Practitioner** certification.  
 
 💻 I’m passionate about using technology to improve healthcare systems and operational efficiency.  
 
@@ -15,9 +16,8 @@
 - AWS (EC2, VPC, IAM, S3, KMS)  
 - SQL  
 - HTML, CSS, JavaScript  
-- ASP  
+- ASP Classic  
 - React  
 - Git & GitHub  
 
 ✨ *Always learning, always building.*
-
