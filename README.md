@@ -1,4 +1,5 @@
 👋 Hi, I’m Clemencia
+
 Computing & IT graduate | AWS re/Start | Cloud & IT Infrastructure | Biomedical Engineering experience (NHS)
 
 🎓 I’m a Computing & IT graduate with hands-on experience in biomedical engineering within the NHS and a growing focus on cloud technologies. 
